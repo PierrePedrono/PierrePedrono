@@ -1,8 +1,10 @@
 
-# About me 
+# About me (work in progress)
 
 
-## 🔭 I’m currently looking for a work-study program starting in September as a Backend developer (4 days at work/1 day at school)
+## 🔭 I’m looking for a work-study program starting in September as a Backend developer 
+(4 days at work/1 day at school) 
+
   
 - 🌱 I’m currently learning JavaScript frameworks: node, express, react...
 - 🔨 I will deepen my PhP and SQL skills
